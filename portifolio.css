@@ -1,0 +1,28 @@
+header  {
+    background: whitesmoke;
+}
+h1 img  {
+    padding: 10px;
+    margin-left: 20px;
+}
+
+nav {
+    position: absolute;
+    top: 87px;
+    right: 90px;
+}
+nav li, a  {
+font-family: 'Montserrat', sans-serif;   
+display: inline;
+text-transform: uppercase;
+font-weight: bold;
+color: #9C6D85;
+font-size: 15px;
+text-decoration: none;
+margin: 0 0 0 15px;
+}
+
+body    {
+    font-family: 'Montserrat', sans-serif;
+    background-color: whitesmoke;
+}
