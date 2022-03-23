@@ -25,12 +25,12 @@ nav li, a  {
 }
 
 .apresentacao img   {
-    width: 250px;
+    width: 300px;
     border-radius: 50%;
     position: absolute;
     top: 150px;
     right: 10%;
-    
+    border: 5px dotted #9c5d7e;   
 }
 
 body    {
