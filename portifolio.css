@@ -1,11 +1,14 @@
+#todo   {
+    font-family: 'Raleway', sans-serif;
+}
 
 header  {
     background: whitesmoke; 
 }
 
-h1 img  {
+.imgheader  {
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 90px;
 }
 
 nav {
@@ -13,8 +16,9 @@ nav {
     top: 13%;
     right: 10%;
 }
+
 nav li, a  {
-    font-family: 'Montserrat', sans-serif;   
+    font-family: 'Raleway', sans-serif;
     display: inline;
     text-transform: uppercase;
     font-weight: bold;
@@ -24,16 +28,31 @@ nav li, a  {
     margin: 0 0 0 15px;
 }
 
-.apresentacao img   {
+.perfilapresentacao   {
     width: 300px;
     border-radius: 50%;
     position: absolute;
     top: 150px;
     right: 10%;
-    border: 5px dotted #9c5d7e;   
+    border: 5px dotted #9c5d7e;  
+    margin: 15px;
+}
+
+.apresentacao h2   {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-size: xx-large;
+    font-weight: bold;   
+}
+
+.apresentacao p {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    font-size: x-large;
 }
 
 body    {
     background-color: whitesmoke;
-    font-family: 'Montserrat', sans-serif;  
 }
